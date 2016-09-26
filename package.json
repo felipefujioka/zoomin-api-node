@@ -21,6 +21,8 @@
     "url": "https://github.com/felipefujioka/zoomin-api-node/issues"
   },
   "dependencies": {
-    "firebase": "~3.4.0"
+    "firebase": "~3.4.0",
+    "express": "~4.14.0",
+    "body-parser": "~1.15.2"
   }
 }
