@@ -1,0 +1,26 @@
+{
+  "name": "zoomin-api-node",
+  "version": "0.0.0",
+  "description": "Node api for the zoomin app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:felipefujioka/zoomin-api-node.git"
+  },
+  "keywords": [
+    "zoomin",
+    "car",
+    "pool"
+  ],
+  "author": "Felipe Jun Fujioka Shida",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/felipefujioka/zoomin-api-node/issues"
+  },
+  "dependencies": {
+    "firebase": "~3.4.0"
+  }
+}
